@@ -11,7 +11,6 @@ Welcome to the repository for a dynamic backend solution for a bookstore applica
 - **CRUD Operations:** Full-fledged endpoints to manage authors and books.
 
 
-Follow these simple steps to get your local development environment up and running.
 
 ### Prerequisites
 
