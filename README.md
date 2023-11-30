@@ -10,7 +10,6 @@ Welcome to the repository for a dynamic backend solution for a bookstore applica
 - **Prisma ORM:** Streamlined database operations tailored for TypeScript and Node.js.
 - **CRUD Operations:** Full-fledged endpoints to manage authors and books.
 
-## Getting Started 🚀
 
 Follow these simple steps to get your local development environment up and running.
 
